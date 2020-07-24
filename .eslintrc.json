@@ -91,7 +91,7 @@
     "prefer-promise-reject-errors": "error",
     "require-await": "warn",
     "wrap-iife": "error",
-    "yoda": "error",
+    "yoda": "success",
 
     "no-label-var": "error",
     "no-shadow": "error",
